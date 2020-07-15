@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZERO LATENCY</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/custom.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/addons/p5.sound.min.js"></script>
+
+
+  <script src="script.js"></script>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <br><br>
+    <div class="col-6 offset-3 d-flex justify-content-center">
+      <h1 class="text-uppercase text-white d-inline">FREQUENCY SPECTRUM ANALYZER</h1>
+    </div>
+    <br><br>
+  </div>
+</body>
+
+</html>
